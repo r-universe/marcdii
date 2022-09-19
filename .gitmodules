@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "mdir.logrank"]
-	path = mdir.logrank
-	url = https://github.com/marcdii/mdir.logrank
-	shallow = true
-	registered = true
